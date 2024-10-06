@@ -1,4 +1,4 @@
-# [The Unix Workbench](http://seankross.com/the-unix-workbench/)
+# [The Unix Workbench](http://seankross.com/the-unix-workbench/) Book
 
 [![Build Status](https://travis-ci.org/seankross/the-unix-workbench.svg?branch=master)](https://travis-ci.org/seankross/the-unix-workbench)
 
